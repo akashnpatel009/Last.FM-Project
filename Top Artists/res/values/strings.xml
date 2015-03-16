@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Top Artists</string>
+    <string name="searching_artist">Searching for top artists</string>
+	<string name="no_artists">No top tracks found for that metro area.</string>
+
+	<string name="artist_button_label">Get !</string>
+	<string-array name="countries">
+		<item>United States</item>
+		<item>India</item>
+		<item>Spain</item>
+		<item>Brazil</item>
+		<item>United Kingdom</item>
+	</string-array>
+</resources>
